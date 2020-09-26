@@ -6,3 +6,6 @@ https://github.com/pypr/compyle/zipball/master
 mako
 pytools
 Beaker
+pytest>=3.0
+mock>=1.0
+numpy-stl
