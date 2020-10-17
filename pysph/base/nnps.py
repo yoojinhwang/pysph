@@ -13,3 +13,4 @@ from pysph.base.stratified_hash_nnps import StratifiedHashNNPS
 from pysph.base.stratified_sfc_nnps import StratifiedSFCNNPS
 from pysph.base.octree_nnps import OctreeNNPS, CompressedOctreeNNPS
 
+
